@@ -1,0 +1,39 @@
+{
+    "posts": {
+        "hello_world": {
+            "title": "Hello World",
+            "date": "2023-01-01",
+            "tags": [
+                "intro",
+                "welcome"
+            ],
+            "summary": "This is the first post in the blog."
+        },
+        "index": {
+            "title": "Posts Index",
+            "date": "2023-01-02",
+            "summary": "This is the index of all posts."
+        },
+        "my_new_poster": {
+            "title": "My New Poster",
+            "date": "2025-11-30",
+            "tags": [],
+            "summary": ""
+        }
+    },
+    "foo": {
+        "bar": {
+            "title": "Foo Bar",
+            "date": "2023-01-03",
+            "tags": [
+                "example"
+            ],
+            "summary": "This is an example post in the foo category."
+        }
+    },
+    "index": {
+        "title": "Welcome to My Blog",
+        "date": "2023-01-01",
+        "summary": "This is the homepage of the blog."
+    }
+}
