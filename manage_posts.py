@@ -4,7 +4,7 @@ import datetime
 import argparse
 import re
 
-CONTENTS_DIR = 'contents'
+CONTENTS_DIR = '.'
 INDEX_FILE = os.path.join(CONTENTS_DIR, 'index.json')
 
 def load_index():
@@ -41,9 +41,7 @@ def create_post(title, category='posts', tags=None, summary=''):
         return
 
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(f"# {title}\n\n")
-        f.write(f"Date: {date_str}\n\n")
-        f.write("Write your content here...\n")
+        f.write("")
     
     print(f"Created {filepath}")
 
