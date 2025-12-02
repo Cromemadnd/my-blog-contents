@@ -18,19 +18,29 @@
         "auth-implementation-of-microservices": {
             "title": "浅谈微服务架构的认证与鉴权",
             "date": "2025-10-26",
-            "tags": [],
+            "tags": [
+                "auth",
+                "microservices"
+            ],
             "summary": ""
         },
         "interfaces-and-black-boxes": {
             "title": "接口、黑箱、契约编程与命名规范",
             "date": "2025-10-26",
-            "tags": [],
+            "tags": [
+                "design",
+                "backend"
+            ],
             "summary": ""
         },
         "reflections-on-layered-architecture": {
             "title": "对后端分层设计的思考",
             "date": "2025-10-10",
-            "tags": [],
+            "tags": [
+                "architecture",
+                "backend",
+                "design"
+            ],
             "summary": ""
         }
     },

@@ -1,9 +1,3 @@
-+++
-date = '2025-10-26T21:07:01+08:00'
-draft = true
-title = '浅谈微服务架构的认证与鉴权'
-+++
-
 ## 引言
 
 在用 `hugo new` 写这篇文章时，我纠结了一下文件名：到底是叫 `authentication` 还是`authorization` 好？
