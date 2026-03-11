@@ -1,17 +1,8 @@
 {
-    "posts": {
-        "hello_world": {
-            "title": "🛠️ Markdown & HTML 综合渲染测试文档 v2025",
-            "date": "2025-12-01",
-            "tags": [
-                "intro",
-                "welcome"
-            ],
-            "summary": "This is the first post in the blog."
-        },
+    "notes": {
         "index": {
-            "title": "Posts",
-            "date": "2023-01-02",
+            "title": "Notes Index",
+            "date": "2026-3-11",
             "summary": "This is the index of all posts.",
             "tags": []
         },
@@ -45,7 +36,7 @@
         },
         "home-networking-journey-network": {
             "title": "海内存知己，天涯若比邻 -- 细记一次家庭组网经历 | 网络配置篇",
-            "date": "2025-10-10",
+            "date": "2026-03-11",
             "tags": [
                 "networking",
                 "home",
@@ -55,7 +46,7 @@
         },
         "home-networking-journey-software": {
             "title": "海内存知己，天涯若比邻 -- 细记一次家庭组网经历 | 软件配置篇",
-            "date": "2025-10-10",
+            "date": "2026-03-11",
             "tags": [
                 "networking",
                 "home",
@@ -66,7 +57,6 @@
     },
     "index": {
         "title": "泥嚎！",
-        "date": "2023-01-01",
         "summary": "This is the homepage of the blog."
     }
 }
